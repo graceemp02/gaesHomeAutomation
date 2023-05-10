@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gaesHomeAutomation/static/css/main.4c2dfac1.css",
+    "main.js": "/gaesHomeAutomation/static/js/main.964ecf0a.js",
+    "index.html": "/gaesHomeAutomation/index.html",
+    "main.4c2dfac1.css.map": "/gaesHomeAutomation/static/css/main.4c2dfac1.css.map",
+    "main.964ecf0a.js.map": "/gaesHomeAutomation/static/js/main.964ecf0a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2dfac1.css",
+    "static/js/main.964ecf0a.js"
+  ]
+}
